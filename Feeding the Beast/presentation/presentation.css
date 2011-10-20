@@ -1,3 +1,5 @@
+.deck-container h1,
+.deck-container h2 {color:#002b5c;}
 .deck-container dl {float:left; width:100%; margin:0 0 30px;}
 .deck-container dt {float:left; clear:left; margin:0 10px 0 20px; font-weight:bold;}
 .deck-container dd {}
@@ -7,6 +9,8 @@
 .deck-container .theme-menu h2 {float:left; font-size:20px; border:0; padding:5px 10px; margin:0; height:20px; position:relative; top:-5px; left:-5px; background:#ccc; color:#444; text-shadow:none; font-family:sans-serif; font-weight:bold;}
 .deck-container .theme-menu label {float:left; display:block; font-size:12px; vertical-align:baseline; margin:0 4px 0 15px;}
 .deck-container .theme-menu select {float:left; display:block; font-size:14px;}
+
+.deck-container .deck-prev-link:hover, .deck-container .deck-prev-link:focus, .deck-container .deck-next-link:hover, .deck-container .deck-next-link:focus {background: #bba242;}
 
 @media print {
   .theme-menu {display:none !important;}
