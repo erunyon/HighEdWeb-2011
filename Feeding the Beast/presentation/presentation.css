@@ -1,3 +1,5 @@
+.deck-container h1 span {font-size:smaller; font-weight:normal;}
+
 .deck-container h1,
 .deck-container h2 {color:#002b5c;}
 .deck-container h3 {}
