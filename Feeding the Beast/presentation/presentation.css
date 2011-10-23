@@ -15,7 +15,7 @@
 
 .deck-container .deck-prev-link:hover, .deck-container .deck-prev-link:focus, .deck-container .deck-next-link:hover, .deck-container .deck-next-link:focus {background: #bba242;}
 
-img.right {float:right;}
+img.right {float:right; margin:0 0 10px 20px;}
 
 #api-definition blockquote {font-size:1.6em;}
 
