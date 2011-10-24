@@ -71,3 +71,10 @@ h3. Lessons Learned
   * Android is more challenging, as there are more vendors or features.
 
 If they would start over, they would go with Titanium; Though Phone Gap would be a strong candidate.
+
+
+h3. Other Ideas
+
+* Building Swipe Cards into their Apps
+* Weather on campus from more reliable source
+* Athletics had idea to upload all images to a Flickr feed at a game, then display the best on the Big Screen
