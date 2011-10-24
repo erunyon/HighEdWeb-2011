@@ -1,0 +1,73 @@
+h1. Mobile on a Shoe-string
+
+Download the source: "http://tinyurl.com/hewb11app":http://tinyurl.com/hewb11app
+
+ND needs to open source it's adjustments to the mobile environment.
+
+University of Wisconsin: OSHKOSH mobile app
+* Mobile app is mostly feeds
+
+University of Wisconsin Milawaukee: Mobile App
+* Incorporated course data
+* Drops pin onto map
+* Shuttle bus prediction
+* Laundry
+
+High Ed Web:
+Schedule & Google Map
+* Loads feed from iCal for schedule
+* PDFs of Each of the maps available
+* 80 hours for HighEdWeb app
+
+History:
+* What is the product they are using
+
+h3. MEAP
+
+* They were going to go with MEAP
+* Fast deployment
+* Cost for MEAP, base cost was around 100K
+*
+
+h3. Censia Touch
+
+* HTML 5, CSS, and jQuery
+* Centia cloud server
+* Not native, so not as many access points
+* Censia con is across the river in Austin RIGHT NOW
+
+h3. Phone Gap
+
+* Supports most OS
+* Hopefully brought into Apache Foundation
+* Adobe bought it
+
+h3. Titanium - Free and Open Source with Vendor backing
+
+* What they went
+* Use Aptana
+* Buy the device for Android development
+
+h3. The Learning Curve
+
+* Javascript is the language for writing in Titanium.  Deployment creates native objective-C.
+* Single code-base
+* API documentation is important; Titanium documentation is pretty good
+* App called "The Kitchen Sink" with every single thing in it (i.e. gesture, acceleramator, etc.)
+
+h3. To the Code
+
+* Live source-code view
+* Titanium has very simple language
+
+h3. Lessons Learned
+
+* The Apps don't really do much; They consume data.
+* Using your own API as a gateway to another API, you have control and can avoid throttles.
+* Do a soft launch, then let them stumble upon it.
+* Absolutely due app profiling during the whole process.
+  * Titanium can use the native SDK tools (XCode is preferred) for profiling.
+  * DDMS for Android also works, but more cumbersome.
+  * Android is more challenging, as there are more vendors or features.
+
+If they would start over, they would go with Titanium; Though Phone Gap would be a strong candidate.
