@@ -1,4 +1,4 @@
-Drupal: Not Just Your Daddy's CMS by C. Daniel Chase
+h1. Drupal: Not Just Your Daddy's CMS by C. Daniel Chase
 
 Session Monday #1
 
