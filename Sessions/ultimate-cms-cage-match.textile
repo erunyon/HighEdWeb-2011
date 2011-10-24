@@ -1,0 +1,28 @@
+h1. Ultimate CMS Cage Match
+
+h2. Why is Drupal 7 the ultimate open source CMS for higher education (and everyone else)?
+
+* Theming
+  - Create a sub-theme based on a master (i.e. "fork" the theme)
+
+* Content Types
+  - Collection of fields (this is for a specific Node)
+  - Examples: Basic page, Blog post, etc.
+
+* Taxonomy
+  - How you org
+
+* Views
+  - Ways to query your content
+
+* Calendaring
+  - better than any dedicated web app for calendaring; explore this
+
+h2. Why Wordpress
+
+* Texas used version 6 for awhile
+* Trouble setting up content editing in Drupal; The forms grew painful.
+* They need a Big Blue Button to click and Publish
+* One-click upgrades
+* Wordpress has a UI focused team
+* Upgrade cycle is much tighter and more disciplined.
