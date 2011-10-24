@@ -1,0 +1,67 @@
+Drupal: Not Just Your Daddy's CMS by C. Daniel Chase
+
+Session Monday #1
+
+Case Study for Drupal - Beginning to End
+*     Several websites were to merged into one site.
+*     Too many acronyms
+
+Project Started With
+*     Director of Digital Services
+*     Head of Web & New Media
+*     Social Media and Marketing Coordinator
+
+Add Collections Search to the Drupal module
+
+Custom Modules were created: Collections Search and EDAN integration
+
+Can you use Drupal yourself? Yes, but you need an experienced developer.
+
+What Do You Need?
+*     Start with a Clean Slate
+*     First Comes Design
+*     Understand the 'node' concept as it applies to design
+*     Create standardized page templates - there were 6 required for Smithosonian
+*     What components of those pages can be reused
+
+Architecture
+*     Web server - Apache, IIS, or Nginx
+*     PHP 5.3+ recommended with Drupal 7
+*     MySQL
+*     PostgreSQL* - modules may not work
+*     Use a multi-master setup for DB server
+*     Varnish with multiple frontends
+
+My Daddy's CMS
+*     Old School
+*     Not designed for the web from the start
+*     Generally document-centric
+*     Enterprise oriented
+*     EMC Documentum, IBM Enterprise CM, Oracle ECM Suite
+
+What a CMS Should Be
+*     Have a well defined growth model
+     *      Know how you are going to start and how it will grow
+*     Open Source by Vendor
+*     Dedicated central team
+*     A visionary leader, not dictactor - CEO
+*     Standard software development practices
+*     Uses accepted industry standards
+*     Revenue model based on training, support & service
+
+PRO
+*     OSS
+*     Flexible
+*     Extendible
+*     Community Support
+*     DrupalCon
+*     Active Development
+*     Commercial Support Available
+
+CONS
+*     Steep learning curve for development
+*     Popular modules updates not always timely
+*     Architectural complexity
+*     Core development model unclear
+*     Version number does not describe maturity
+*     Open Source
