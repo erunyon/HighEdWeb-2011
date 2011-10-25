@@ -1,0 +1,67 @@
+h2. Cornell's Digital Well -- Dirk P Swart
+
+#APS08 #heweb2011
+
+Working with legal to open source their project.
+
+Creates relations between multiple articles; Group them by project boxes; Then share with people.
+
+Content is not stored in the Digital Well; Instead there are pointers.
+
+h3. Three Problems
+
+Everyone is busy with their jobs.  Hard to find people to help.
+
+Blurring the message, viewing message propagation rates
+
+Inaccuracy of Data
+
+Hard to Find
+
+h3. The State of the Art
+
+People who get the news vs. Centralized reporting on the news; There is a large gulf between the two.
+
+Communicate on all forms of media.  As such content has to be repurposed easily.
+
+Location disinterest - Who cares where on my hard drive email is stored.  I just want to get it.  They created an application that doesn't store the information directly.
+
+h3. Repositories
+
+A place to store information where the meta data is tightly bound with the information itself.  Associate meta-data with data itself.  Who's in the photo, who are the people, what are they doing, and can I use this photo.
+
+Tying into existing repositories; If the meta-data exists, use it.  If it doesn't allow them to enter it.
+
+DSpace or Fedora Commons - designed out of library space; The interfaces were too difficult; Optimized for academics.  Broad data repository structures for lay people is challenging
+
+h3. How It Works
+
+Solving the problem - They drew up various stories about how they needed the data.
+
+To solve the problem, Cornell first generated user stories on what users want and expect.  From their they made it happen.
+
+Ease of use Trumps everything.  Not ease to develop.
+
+Designs that are demonstrably better than what already exists are hard to gain traction.  We are creatures of habits.
+
+Steve Yegger - "Amazon sucks at everything except for making information findable."
+
+Form follows function.  Or form follows fashion.  Navigating from one screen to another screen.  Cornell well is a single page application; lots of ajax.
+
+Every single item is ranked individually for that person.  How do you know is good? Reputation is key for discovering data of value.
+
+It is a project for marketing professionals.
+
+h3. Lessons Learned
+
+* KISS
+* You can keep all information on one page
+* Changing the way people work is HARD
+
+A tool for communicators it provides efficient, reusable content directly from the source.  Dirk gave his boss talking points for the development, keeping on message.
+
+What kind of funding did you get.  A year for development.  Sharing information culture.  Resources 1 developer; then out-sourced; They wrote a specification to a 3rd party.  They provided an extremely detailed specification document.
+
+It does have the repository of last resort.
+
+It is a domain specific repository.  Imagine the developer community.  Everything in the system is visible to everyone.  It is not drawing in content from social media.
