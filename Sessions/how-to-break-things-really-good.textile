@@ -1,0 +1,46 @@
+h1. How To Break Things Really Good
+
+Jon Boyd
+#MMP11 #heweb11
+@octothorp
+http://8to.me/mmp11
+
+#1
+
+#2
+
+#3
+
+#4 - Let things break well
+  * Beware of silently failing systems
+  * Beware of noisily failing systems
+
+There's a fail safe, things don't explode; They don't cascade.
+
+h2. Techniques When Testing
+
+1) Take the time to test
+2) Take great note and write great bug reports -- http://8to.me/bug-reports
+  b) Steps to reproduce
+  c) What you expected to see
+  d) What you saw
+
+  * Acrobat Pro for annotated PDFs
+  * NotableApp.com -- Good for sharing bug reports online.
+  * Bugherd -- bugherd.com
+  * FogBugz -- fogcreek.com/fogbugz
+
+3) Pay attention to instructions -- then violate them
+  - Beat up the forms
+4) Don't try it only once.  Variations are revealing.
+5) Watch the other end of the pipe.
+  - Test the results of the actions
+  - Confirmation pages
+  - Notification emails
+  - Insist on seeing the admin interface
+6) Listen to that nagging little voice -- because, no it won't be OK.
+7) Watch for value.
+
+Listen for silent failure.
+
+Automated Testing in Higher Ed, does this make sense.

@@ -1,0 +1,56 @@
+h1. The Site is Down…Again!?
+
+#tpr11 #heweb11
+
+h2. Introductions
+
+* They ran the LDAP server, IMAP, Exchange, Share Point
+
+h2. Once Upon a Time…
+
+* Large University reaching alumni
+* Alumni giving
+* Nobel Prize week
+* Virginia Tech - the incident you hope you never have
+
+Don't change the systems
+
+h2. Expectations
+
+* Client expects that core services are always up
+
+h2. The web site is useless if the platform is down
+
+* Is it running?
+* Is it responding?
+* Is it responding with the site contents?
+* Can the site be updated?
+
+h2. Can I Sell You A Bridge?
+
+* Users want to believe in 100% uptime
+* Users have needs for 100% uptime - we turn them onto this need
+* Who promises 100% uptime
+
+h2. "The Cloud" -- The Hype
+
+* "Always there"
+* "Does whatever it needs"
+
+h3. Management Perspective
+
+* Cost saver
+* Performance yardstick
+
+h2. Cloud vs Me or You
+
+* Scaling - cloud brings it
+* Cost sharing - cloud brings it
+* Depth of knowledge - cloud brings it
+
+h3. Cloud Model
+
+Cache <--------> Web Server (5 Mile overview)
+
+h2. Hype?
+
