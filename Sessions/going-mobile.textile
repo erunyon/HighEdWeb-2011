@@ -1,0 +1,49 @@
+h1. Going Mobile!
+
+The How and Why of UVU's Mobile Web Initiative
+Nathan Gerber
+Director Web Dev
+Utah Valley University
+#tnt9 #heweb11
+
+
+h2. Why is Mobile Important
+
+h2. The Questions we answered and why
+
+h2. Tools we found to be keys to success
+
+h2. New Mobile concepts…make you think…
+
+
+h2. Sea Changes
+
+* Mainframe to PC
+* Dial-up to Broadband
+* PC to Mobile - this is bigger a change than the predecessors
+
+There are countries contemplating no longer printing money.
+
+Phones are no longer used for voice
+
+h2. Build a New Mobile Site?
+
+"Mobilize, don't minituarize"
+
+"…The mobile context is so different from the desktop one it deserves direct consideration v. just mangling down a full-size site"
+
+h2. Initial Focus
+
+"It is not about making our site work on a mobile device but making sure they can access what they need when they are mobile."
+
+Present information when you are mobile.
+
+Know the problem you are trying to solve.  If you don't know where you are going, any old ticket will do.
+
+To Have A Strong Mobile presence, you need both a mobile website and a mobile app.
+
+h2. Next Steps
+
+Continual migration of public site and mobile together
+
+CMS is a key tool - XML, RSS
