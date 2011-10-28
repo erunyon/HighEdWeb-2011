@@ -1,7 +1,7 @@
 HighEdWeb 2011
 http://2011.highedweb.org/
 
-Feeding the Beast: Fostering an API Culture
+Feeding the Beast: Fostering a Culture of Sharing
 Monday, October 24, 2011
 3:30 p.m.
 
