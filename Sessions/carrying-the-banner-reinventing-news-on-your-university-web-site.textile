@@ -1,0 +1,88 @@
+Carrying the Banner: Reinventing News on Your University Web Site
+TNT3 Content Track
+
+Foothills II
+Monday, 10:45–11:30 AM
+
+A standard of any university website is the news section, but are we keeping pace with how our audiences discover and consume news content? Do we monitor, promote and publish in real-time? How does news tie into our social media strategy? Are we effectively using content types beyond the written word? Are we doing all we can do to make sure our stories get covered by an ever-changing media? Are we making the most of collaborations and integrations that can improve the quality and expand the visibility of our news content? In this session, I will lay out a range of strategies and tactics for changing our news offices into news organisms in order to more effectively communicate our stories to our online audiences.
+
+Presenter
+Georgiana Cohen
+Manager, Web Content and Strategy, Tufts University
+
+Georgy Cohen ("www.georgycohen.com":http://www.georgycohen.com) is manager of web content and strategy at Tufts University, where she oversees a range of content creation and strategy initiatives involving the university website, online news, social media and multimedia. She is also co-founder of Meet Content (meetcontent.com), a blog and resource that aims to empower higher education to create and sustain web content that works. With a background in journalism, including a three-year stint working in the fast-paced online newsroom of The Boston Globe, Georgy is focused on aligning higher ed web communications with the expectations of our increasingly savvy audiences.
+
+<hr>
+
+h2. Launching now.tufts.edu
+
+* Fractured news presence with some duplication
+* There was some friction between the teams
+* Goal was to blend content into one place for the users
+* tell good stories
+* present and deliver them well
+
+h3. Common problems with HighEd news sites
+
+* poor design
+* not dynamic
+* unclear audience
+* stuck in the 20th century
+
+h2. How does HighEd gain respectability in relation to national news sites?
+
+h3. Tufts Approach
+
+* Looked outside highered at mainstream media
+* npr, espn, ny times, si.com, time, economist, TED, guardian.co.uk
+* Innovation and resourcefulness is needed due to small budgets
+* readers seek up-to-the-minute information
+
+h3. News Discovery
+
+* create content that will satisfy a full range of consumers needs
+* connect people to the news they seek
+* people and their social graphs are the last mile - Valeria Maltoni
+
+h3. Stock and Flow (long and short-term value)
+
+* Flow is the feed. It's the posts and the tweets. It's the stream of daily and subdaily updates
+* Stock is the durable stuff - discovered through search
+
+h3. Organizational Woes
+
+* central office has the chance to bring people together
+
+h3. Content Types
+
+* video, audio, photos
+* live chats, instagram
+* user generated content
+* what is the role of seo, tagging and linking
+* how is content made - social, relevant, contextual
+* what is a press release in the age of the social web?
+
+h3. Story-telling
+
+* stories should drive people to have an emotional response
+* We're trying to get our audiences to do something, or feel something
+* build relationships across campus and share information with other groups
+* Use metrics and analytics to find out where you should focus and improve
+* news is a unique content type
+* what is the appropriate way to treat news and present it so you can make an impact
+* Try something new and innovative with your News site
+* Uses a Twitter account called tuftslive to livetweet events that are not being covered by news
+* pull in tweets from live account to the news homepage
+* give professors a platform to share their expertise
+* Real-time mindset
+* get media out quickly to be part of the realtime conversation
+* social media assists in distribution
+* people are going to find your news through social media links
+* how do you drive "what's next" when someone is finished with the story they came for?
+* news should connect with the rest of what's going on around campus
+* Think of your news as a product - harvard provides an embeddable news widget (Harvard gazette)
+* nimble.razorfish.com
+* News presentation should be driven by the stories
+
+"denison.edu":http://denison.edu
+"bu.edu/today":http://bu.edu/today

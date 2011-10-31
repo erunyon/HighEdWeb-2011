@@ -1,0 +1,73 @@
+What Students Want in Their Mobile Application
+APS3 Applications and Standards Track
+
+Hill Country C & D
+Monday, 10:45–11:30 AM
+
+Technology staff at The Ohio State University has formed an unprecedented partnership with students to deliver a mobile application that meets students’ needs. Three technology workers from different department with very different roles will discuss their process of surveying students to understand their needs, working with them to test the application, and using them for development work. The most important new feature on the recent OSU Mobile launch was the ability for students to look up grades and schedules in real time. We’ll discuss the usage and popularity of these and other features, and plans for future phases. We’ll share the technologies used, some of the challenges on a large campus, and how involving students can make things run more smoothly than one might expect.
+
+*Presenters*
+Glenn Donaldson
+Senior Application Architect - OCIO, The Ohio State University
+
+Glenn works in the Enterprise Application Strategy and Architecture area in the Office of the CIO (OCIO),  and he is responsible for planning and directing application development quality assurance policies, programs, and initiatives. Directs processes and testing to ensure quality standards are met during development.  He provides leadership in application architecture and integration, specifically in middleware and web technologies. This includes data, application and service integration.  He is responsible for web authentication and authorization software.  He also serves as technical subject-matter expert to OCIO Infrastructure and Enterprise Application teams.He oversaw many of the enterprise systems application development specifically the student information system(s).  He formerly worked in the Office of the Registrar where his long web career/involvement began.  He's married with 2 young children.
+James Burgoon
+Senior Web Developer, University Communications, The Ohio State University
+
+James manages day-to-day operations of the main osu.edu website. His background includes web design as well as web development. Prior to coming to Ohio State James worked in marketing. He's married and enjoys his dogs, skiing, and well designed automobiles.
+Stephen Fischer
+Associate Director, Student Life IT, The Ohio State University
+
+Stephen heads up Application Development in Student Life. Prior to this he was a web developer in Geriatrics & Gerontology at OSU. He's married and has 2 young children.
+
+<hr>
+
+h2. m.osu.edu
+
+h3. What students want (or think they want) in their mobile application
+
+"If you're above a certain age, you feel like an immigrant in a place where your children are native" - John Barlow (grateful dead)
+
+* In ten years, students w/o mobile phones went from 80% to 0% (2000 - 10)
+* in one year, verizon devices visiting OSU homepage increased 255%
+* 70% students have smart-phones
+* 36% feel their phone is as important as their car
+* Average student will send 4000 texts per month
+* Released ring-tone site in 2006 (~70k/year downloads)
+* Students want to know how they can get "their stuff"
+
+h3. OSU mobile = Learning by doing
+
+* Mobile app + ongoing Collaborative Project
+* Collaboration with the students is necessary to produce a great product
+* Mobile is a necessity for students
+* Surveyed thousands of students
+* "Students see us as one brand, but we market to them by lifting our bureaucratic skirt" OSU mobile"
+* Held a student testing event (with food)
+
+h3. The App
+
+* Schedule
+* Grades
+* News
+* Maps
+* Buses
+* BuckID (shows balance of cash)
+* Athletics
+* Other "Fun" stuff
+* "Nearby" feature at the bottom of the screen with categories
+* Students sign-in on the app
+
+h3. What Worked
+
+* Not waiting for total consensus
+* focus on end user
+* Taking a stand on the behalf of the end user
+* Awareness
+** presentations
+** surveys/roadshows
+* Used version control and API's
+* go.osu.edu/osumobile
+* Helpful to watch students use your app
+* iOS is built in Titanium
+* "Testflight" for iOS devices

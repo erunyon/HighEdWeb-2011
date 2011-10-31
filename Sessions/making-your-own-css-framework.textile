@@ -1,0 +1,75 @@
+Making a CSS Framework that Works for You
+TPR2 Technical: Propeller Hats Required Track
+
+Hill Country A & B
+Monday, 9:30–10:15 AM
+
+This session will cover making a CSS Framework to use at your college or university. The presenter will cover how and why the University of Minnesota - College of Education made a framework that now powers around 100 web sites. This framework was built out of necessity during a time of staff reductions, and used to both encourage individual department designs, while also increasing simplicity in producing and maintaining those sites. The first part of the session will go over the background of making a framework that fits your needs, and the process for deciding what to include and what to leave out. The second part of the presentation will cover that individual code we used in our framework. The code we used will of course be made available at the end of the session as well!
+
+Presenter
+Dan Sagisser
+Information Architect and Project Manager, University of Minnesota, CEHD
+@dansag
+dansag@umn.edu
+
+Dan prides himself in his ability to connect with audiences and give useful strategies that can be put into practice the next day. Dan leads the University of Minnesota's Web Standards group, a professional group of web developers, as well as having presented over the past two years at the MinneWebCon conference. Dan has a strong working knowledge of CSS and HTML, which compliment his skills in advocating for a user centered approach to web design.
+
+<hr>
+
+Starts each site from a "template"
+z.umn.edu/cehdcss
+
+h2. The Why
+
+* Under pressure to produce
+* Small team that was just reduced to two people
+* Departments like to feel "special"
+* Easier for:
+** designers
+** coders
+** quick deployment
+** future upgradability
+** accessibility
+** users managing many sites
+* Priorities:
+** Flexible
+* Include CSS that will most likely be on every site
+** logos
+** banners
+** size
+** search
+** footer
+** nav
+** content
+The How
+
+h2. The Code
+
+* Starts with core styles
+* Uses include stylesheets for mass modification
+* CSS Reset
+* nav is 210px wide
+
+h3. Base framework
+
+* css reset
+* structural elements
+* accessibility pieces
+* text and image styles
+* columns for layout
+* basic print styles
+
+h3. Style and look
+
+* comes from department stylesheet
+* colors
+* header images
+* background images
+* nav styles
+* images
+
+h3. What they learned
+
+* less flexible
+* emphasize individuality in conversation
+* you won't keep everyone happy

@@ -1,0 +1,87 @@
+Twin Red-Headed Stepchildren Of A Different Mother: The Usability of Accessibility
+TNT7 Content Track
+
+Foothills II
+Monday, 4:45–5:30PM
+
+Abstract: Web accessibility as a discipline is extremely varied and potentially complicated. The issues can take time to learn, but are not just important for fulfilling the legal requirements for disabled users but also for enhancing usability and user experience of your site for all visitors. We'll look at common development traps, form techniques, video, and more to help you create a core foundation for producing accessible content for your university sites.
+
+Presenters
+Michael Fienen
+CTO, nuCloud
+
+Michael has been working in web development for more than a decade. He currently wears many hats, functioning as the Director of Web Marketing at Pittsburg State University, CTO at the interactive map firm nuCloud, and working as a consultant with organizations around the country. He is a respected speaker at conferences on subjects ranging from video, to mobile, accessibility, and content strategy, and also writes for the award winning higher ed web development blog .eduGuru.
+Dylan Wilbanks
+Web Developer and Designer, Company To Be Named Later
+
+Dylan Wilbanks was a web producer in higher education for a decade, but then the Red Stapler he won last year told him it was time to go to the Magical Land Of For-Profit Late-Stage Startups. He misses his family very much. He speaks in metaphors, dreams in CSS, and fights for an accessible, usable web.
+
+<hr>
+
+* Usability and accessibility are often left until "later"
+* Usability != accessibility
+* Usability can help with accessibility
+* Resources - bit.ly/tnt7
+
+h2. Implementation
+
+* Three things you can do
+** Your templates
+*** CMS accessibility
+*** Are ARIA and WCAG checks baked in?
+*** Can you require alt attributes and table summaries?
+*** Is the CMS admin usable by the disabled?
+*** Use ARIA landmark roles
+*** Mind your CSS (color contrast)
+*** Don't use display:none on skip links
+*** when you use :hover, use :focus too
+** Your Forms
+*** Enhance with javascript
+*** Don't break the form when js is disabled
+*** required attribute for ARIA: aria-required="true"
+** Your Video
+*** Captions help more than the deaf
+**** SEO
+**** International users
+**** Normal people too
+*** Don't rely on machine transcription
+**** CastingWords
+**** Transcribr
+**** AutomaticSync
+**** $1 per minute
+*** "Produced" video likely already has a script
+*** Use YouTubes caption tools
+
+h2. Verification
+
+* Test, test, test
+* Don't be afraid to iterate
+* Address what you can now and keep moving forward
+* Not all accessibility guidelines can be verified through automated scanning
+* Find out if your campus has an accessibility lab
+* Do usability testing with people with disabilities
+* Nothing is more powerful than watching someone FAIL using something built
+* Three-fold test
+** Color blind test
+** Try and navigate your site with a keyboard ONLY
+** voice nav test
+
+h2. Evangelization
+
+* Preach to the congregation, teach the elders
+* It can be tough to get buy-in from non-technical people
+* Make accessibility part of the process
+* Treat accessibility like a building code
+* Accessibility is good PR
+
+h2. In General
+
+* Make it about people
+* Give people with disabilities a voice
+
+h3. The Takeaway
+
+* Bake in accessibility early
+* test early and often
+* push the case for accessibility
+* listen to people with disabilities

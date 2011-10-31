@@ -1,0 +1,92 @@
+A Utility Belt Approach to Mobilized Content
+TNT10 Content Track
+
+Foothills II
+Tuesday, 10:45–11:30 AM
+
+Before you embark on your great mobile mission, put the technology aside for a moment and let's talk about the content.  What goes into a strong mobile strategy?  We'll show you how to inventory your available resources and optimize them for mobile delivery.  Let's leverage the best data and content sources and suit up for mobile web, apps and more.
+
+Presenters
+Roger Wolf
+Assistant Director of Web Communications, UCF
+6 years experience as a Web Strategist for the University of Central Florida. 15 years experience as a Web Professional 2 years teaching Web/UI design Bachelor's in Psychology MFA in Computer Art and Design
+
+Doug Beck
+Web Applications Programmer, UCF
+6 years experience as a Programmer/Web Developer.
+
+<hr>
+
+* Mobile is for the user (get the content into their hands)
+* Master the content first, worry about tech later
+* Create legendary datasources
+* Never give up
+
+h2. Content Makers and Shapers
+
+* educate on how to produce content that can be portable
+* Know thy audience - understand users and what they want
+* You are not the audience - not everyone wants what you do
+* Ask stupid questions - find out what people are trying to get at and then help them get it
+* Don't offer the answer until you identify the question
+
+* Be brief
+* Be bright
+* Be done
+
+Step away from the tech and find out what content is useful and how to shape it for use on mobile devices
+You don't need to do mobile, you need to mobilize your content
+
+h2. Before messing with the content:
+
+* Set Goals
+** know your target audience
+** describe the Experience before you start to build - use personas
+** Understand your limitations to overcome them (such as limited resources)
+** have good content that supports your goals
+* Be Honest with what you can accomplish
+* Research (especially when it comes to mobile stats)
+** tablet experience is not "mobile"
+** tablet numbers can artificially inflate mobile stats
+** prioritize by what people are trying to get
+** Inventory available resources
+** Observe users
+   ** ask them what they're doing and how they're using their mobile devices
+** Know thy competition
+   ** understand what others have done
+
+h3. UCF initial list
+
+* phonebook
+* map
+* parking//shuttles
+* news
+* events
+* One thing i missed
+
+* Use what you've got - if it isn't good, make it better
+* Be Responsible
+* Work with and make friends with IT - they hold many keys to data
+
+h3. Hunt down the rest - find it where it lives
+
+* audit content across campus
+* tools to hunt through code to find sources of data
+
+h3. Mobilize
+
+* Most people have control over content or tech, but rarely both
+* Data sources - quality content that is computer readable
+** News feeds
+** Events iCal feed
+** Photos - Flickr RSS feed
+** Emergency Management - RSS
+** Campus Map + API
+* Alumni - didn't play well
+* Blackboard - nope
+* Parking and Transportation - had bad data
+* bad data from IT had to be cleaned to be usable
+* Library Catalog
+** library employee wrote wrappers for library data for public access
+* Do the hard part and deal with data first, then pick your platform
+* Now using Blackboard mobile central

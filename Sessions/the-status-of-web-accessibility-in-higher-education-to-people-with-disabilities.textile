@@ -1,0 +1,73 @@
+The Status of Web Accessibility in Higher Education to People with Disabilities
+APS11 Applications and Standards Track
+
+Hill Country C & D
+Tuesday, 1:30–2:15 PM
+
+Web accessibility is an increasing problem in higher education, but little data is available on actual implementation of web accessibility policies. This presentation will give some light to the types of web accessibility problems faced by universities by analyzing over 23,000 web pages at over 180 universities home pages, admissions pages and Liberal Arts Sciences pages. The analysis focuses on key accessibility indicators including page titling, use of headers to provide document structure, labeling form controls, alt text for images and header markup for tables identified as data tables. The results show that web accessibility continues to be a major problem. Most institutions have policies on web accessibility but very few institutions actually implement programs and assign administrative responsibilities to insure compliance through auditing accessibility. The data from this study shows that most higher education web sites still lack basic accessibility features. Even ALT text for images, often the poster child for web accessibility, was only fully implemented on 62% of pages. Forms control labeling was the most troubling with less than 30% of pages with form controls having proper labels for all the form controls on the page. In general only about 50% of pages used best practices for titling web pages and properly nested heading elements to help students understand what web page they were on. Of the few pages with data tables almost all did not provide all the information needed for accessibility. The only bright light was that most universities seem to be moving away from using tables for the layout of content, with 77% of pages passing the table nesting rule. Developers need to learn more about the accessibility of their web resources in order to develop web accessibility management plans for their institutions. Accessibility has to be treated in a similar way as security, as a necessary and import part of making web resources accessible and usable to all students, including those with disabilities. The Illinois Functional Accessibility Evaluator (FAE) is a free tool that can be used to effectively measure and guide web developers in creating highly accessible web resources that comply with WCAG 2.0 and Section 508 requirements. Data on web accessibility is the first step in raising the awareness of IT professionals to take away the plausible deniability of not knowing the accessibility of their web resources.
+
+Presenter
+Jon Gunderson
+Coordinator of IT Accessibility, Univiersity of Illinois
+
+Dr. Gunderson is the Coordinator of Assistive Communication and Information Technology Accessibility in the Division of Disability Resources and Education Services (DRES) at the University of Illinois in Champaign/Urbana, Illinois. He is currently responsible for supporting computer and information technology accessibility issues for students, faculty and staff with disabilities at Illinois. His continued interests focus on how to improve the design web technologies for accessibility and usability by people with disabilities. He is currently involved in making dynamic HTML more accessible as part of the W3C Protocols and Formats Working Group work on the Accessible Rich Internet Applications (ARIA) specifications and with the OpenAjax Accessibility Task Force. He leads the development on a number of web accessibility evaluation tools including the Firefox Accessibility Evaluator, Firebug Accessibility Inspector and the Illinois Functional Accessibility Evaluator (FAE) Tool.
+
+<hr>
+
+h2. Accessibility WCAG 2.0 validation rules
+
+h3. Data Collection
+
+* 188 universities
+* 703 websites
+* 26302 web pages
+
+* Title and h1 should be relevant to the content
+
+h3. From controls Rules and implementation data
+
+* label form controls
+* 20% of images lack alt text
+
+h3. Data tables
+
+* 84% of tables used headings (th)
+* caption/summary elements not used much on tables
+** wcag 2.0 require all data tables to include caption and summary
+
+h3. Image rules implementation
+
+* 76% of images are suing alt text
+* little use of "longdesc" attribute
+* many images use the filename as the alt text
+
+h3. Data conclusions
+
+* web still has pervasive accessibility problems
+* form control labeling is #1 problem
+* data table markup and alt text for images are the next big problem
+* need to have consensus on heading best practices
+* tables bing used for layout seems to be getting better
+
+h3. Google docs is under litigation due to accessibility issues
+
+Where do we go from here?
+
+* ARIA landmarks
+* form control labeling
+* data tables
+* headings use of images
+* dynamic content
+** pull down and flyout menus
+** hide/show like tab panels
+** aria widgets
+* Administrative
+** need to have more than just policy
+** need implementation deadlines
+** annual or semi-annual auditing
+** people need to be responsible for implementation
+** purchasing and external vendors
+
+Web best practices working group
+OpenAjax Task Force
+Online Course: Designing Accessible Web Form Design

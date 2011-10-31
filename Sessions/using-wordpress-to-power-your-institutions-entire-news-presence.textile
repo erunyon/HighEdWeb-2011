@@ -1,0 +1,54 @@
+Using Wordpress to Power Your Institution's Entire News Presence
+APS1 Applications and Standards Track
+Presentation and code samples: lacytite.com/heweb11
+
+Hill Country C & D
+Monday, 8:30–9:15 AM
+
+We all know WordPress can do just about anything. In this session you’ll see how you can completely revolutionize (and simplify) the way your institution communicates with external and internal audiences. vanderbilt University is using a WordPress to run its entire news presence (including video and audio) – news.vanderbilt.edu – with multiple frontends available for highlighting various segments (Research, Media, Colleges, Internal Audiences, etc).Learn how we: use a tagging system so that every faculty member, department and school has their own news feed that they can pull onto their own websites; create email-client-compatible html email newsletters automatically from our WordPress content; integrated our URL shortner,vanderbi.lt. so that each story automatically generates a shortened URL and prepopulates a tweet; re-purpose stories across multiple frontends; generate correctly sized photos for slideshows, thumbnails, emails and more from a single image upload; create easily accessible help menus within WP for our non-technical content posters with “how to” tips on creating new stories, posting video, scheduling posts, etc.
+
+Presenter
+Lacy Tite
+Web Developer, Vanderbilt University
+
+Lacy has been working in Web development and design for more than 10 years, spending the last four at Vanderbilt University in University Web Communications. The office oversees the top level websites for the university, providing all development/programming and design services in-house. Two of her favorite side projects are working with JMI (justiceandmercy.org) and serving as Art Director for LINK (link.highedweb.org). @lacytite
+
+<hr>
+
+* Vanderbilt Research University with medical facility
+* Individual stories would be posted in four different news channels
+* Now post once and push it out to multiple front-ends
+
+Merging sources makes content:
+
+* manageable
+* useful
+* interesting
+* interactive
+
+news.vanderbilt.edu
+
+* Uses a nodup array to grab news from multiple categories but not include duplicates
+* Users of each "frontpage" can just tag the story with their category
+* Front pages have their own templates, but stories share a common style
+* Tag each news item so they can do related stories within the last 10 months
+** faculty names
+** topics
+** funding groups
+* Bi-weekly emails to faculty and staff generated through wordpress
+** Sends through Listserv
+** Uses it's own email template
+** pulls from featured tag within the last four days
+** other sections pull from other tags
+** Automatically add google analytics Campaign Tracking
+** Schedule stories to be posted
+** Also offer a Feedburner option
+* Require users to upload large image and let wordpress handle the other sizes
+
+* Add custom sizes in "functions.php"
+* Use their own url shortener
+** allows users to manage their own urls
+** Automatically generated when new stores are created
+** http://yourls.org/
+* Build site-specific help pages into WP
+* send users to piknik

@@ -1,0 +1,52 @@
+On your mark, get set, mobile
+TNT8 Content Track
+clients.mstoner.com/highedweb11/doug
+
+Foothills II
+Tuesday, 8:30–9:15AM
+
+There is a lot of buzz about mobile technology and "everything going to mobile." The mobile market is growing steadily every day; the College of William & Mary's website saw a 300% increase in mobile traffic over the past year alone. Despite this radical growth, less than 10% of colleges and universities have a mobile website according to a survey conducted by Dave Olsen at WVU. Building on the success of a webinar we co-hosted with mStoner, we'll use this session to help you take those first steps into the mobile world with confidence. We'll give you an inside look at how William & Mary's mobile site was created, how we're measuring results, and how it has evolved since launch in August 2010. We'll also cover: - the types of information you should offer in mobile format - the decision to create a mobile app or a mobile website - the choice of purchasing an off-the-shelf product or going open-source - trends and guidelines for styling and coding - examples of mobile content from other colleges and universities
+
+*Presenters*
+Tiffany Broadbent
+Web Programmer, College of William & Mary
+
+Tiffany Broadbent is a Web Programmer with Creative Services at The College of William & Mary. Her duties range from developing the College's mobile website and authoring iOS and Android apps to dress a pants-less mascot, to managing the College's Foursquare presence and masquerading as a squirrel on Twitter. She came to the College with significant high-tech experience working with two startups doing peer-to-peer VoIP networking and web software development respectively. She attended the University of Richmond and The College of William & Mary getting Bachelor's and Master's degrees in Computer Science. She has a love of photography, travel, cooking, fine dining and her DVR.
+Doug Gapinski
+Creative Director, mStoner
+
+Doug is the creative director at mStoner, a company that provides smart, sustainable communications solutions to colleges, universities, and professional and graduate schools. At mStoner he works with strategists, designers, and writers to brand research, websites, enrollment publications, email, logos, video projects, interviews, and photo shoots. Doug received his BFA in graphic design from Indiana University in 1999 and owned a successful freelance business prior working for mStoner.
+
+<hr>
+
+* Mobile tech is helping people find what they need, when they need it
+* Sale of smartphones eclipsed desktiops in Q4 2010
+* Mobile includes:
+** strategy
+** design
+** content
+** technology
+* m.wm.edu
+** half of traffic is iOS
+* Apps vs Sites
+** Lead with site development
+** Mobile sites provide Immediacy
+** Mobile app provide Immersion
+* _Refer back to the MStoner mobile talk from several months ago_ (personal note)
+* Props given to ND.edu for our responsive design
+* A lot of the best practices for web design still apply for mobile
+* Avoid small clickable areas (30-40px is ideal)
+* Avoid large images
+* Do usability tests
+** assign critical tasks
+** open-ended feedback
+** comparative feedback
+* Coding for mobile
+** use web standards
+** keep it simple
+** optimize
+** use new html5 form fields
+** mark-up phone numbers correctly
+* Keep an eye on traffic with analytics
+* Mobile users at m.wm.edu don't visit the "social" sections often
+* GA location traffic may not be completely accurate

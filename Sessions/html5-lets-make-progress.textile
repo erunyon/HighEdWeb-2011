@@ -1,0 +1,36 @@
+HTML 5—Let’s Make ProgressTPR4 Technical: Propeller Hats Required Track
+
+Hill Country A & B
+Monday, 11:45AM -12:30PM
+
+It is often said, “Without a struggle there is no progress.” Isn’t that the truth? So, let’s get past the fact that adopting HTML 5 may take some effort, accept the pain, and dig in for results! Come hear OmniUpdate’s Shahab Lashkari, Product Manager, talk specifically about using the new features of HTML 5 to improve your web applications—not replace them! Shahab will share how to use some of the new web form input controls of HTML 5, like sliders and date pickers, to build upon your current HTML 4 applications. He’ll also talk about JavaScript interaction with HTML 5 features, such as video, using the Document Object Model (DOM) API, and using the DOM API to build a rich user experience around the tags (e.g., video) themselves. And, of course, no conversation on HTML 5 would be complete without a discussion of the new canvas and semantic elements. Finally, Shahab will give you a look at how some impressive .edu websites are taking advantage of these techniques. Shahab promises that you’ll leave this HTML 5 session with some great new ideas and practical next-steps for success. So, let’s get started.
+
+Presenter
+Shahab Lashkari
+Product Manager, OmniUpdate
+
+With a lifelong passion for Computer Science, Shahab enjoys all things technical. Currently he is working on his master’s degree in Computer Science at California State University Channel Islands, where he has taught courses in Web Development, Android Game Programming, and Human Computer Interaction. His experience as a programmer and an educator helps give Shahab a unique perspective in his role as Product Manager at OmniUpdate.
+
+<hr>
+
+* Combination of html4 and xhtml (and can be written in either syntax)
+* API's (canvas, offline storage, media playback, drag-and-drop, etc)
+* New rules for error handling
+* It's NOT a W3C recommendation (yet)
+* HTML5 is not a magic bullet, it's a tool
+* markup defines the content
+* specialized form fields to improve usability
+* the "speech" input type has been added to webkit
+* captions for video
+* video for everybody generator (saved in my instapaper account)
+* Canvas is a sketch-pad
+* SVG - build graphics with math
+* CSS3 often gets lumped in under the HTML5 umbrella
+
+h2. Compatibility
+
+* Do NOT sniff for the user agent string
+* feature sniff (resources:)
+** modernizr.com
+** caniuse.com
+** html5boilerplate.com
